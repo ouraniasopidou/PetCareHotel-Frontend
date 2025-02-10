@@ -1,4 +1,4 @@
-# Pet Hotel Frontend
+# Pet Care Hotel Frontend
 
 ## Overview
 This is the frontend for the **Pet Care Hotel Application**, built using **Thymeleaf** with **Server-Side Rendering (SSR)**.
